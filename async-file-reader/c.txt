@@ -1,0 +1,1 @@
+File C has some text too!
