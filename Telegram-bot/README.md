@@ -15,9 +15,11 @@ Built with **Node.js**, **node-telegram-bot-api**, and **node-schedule**.
 
 git clone https://github.com/your-username/telegram-reminder-bot.git
 cd telegram-reminder-bot
+
 2. Install dependencies
 
 npm install
+
 3. Create a .env file
 Inside the project root, create a file named .env and add your Telegram bot token:
 
@@ -25,9 +27,11 @@ Inside the project root, create a file named .env and add your Telegram bot toke
 TOKEN=telegram_bot_token_here
 
 4. Run the bot
+   
 node bot.js
 
 🛠 Dependencies
+
 node-telegram-bot-api
 node-schedule
 dotenv
